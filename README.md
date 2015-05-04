@@ -1,5 +1,5 @@
 # Sport-and-Diet-NLP
-Sport and Diet
-**Githubbb**
+
+**Text Categorization**
 # hh
 <b>Burak</b> dasdas
